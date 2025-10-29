@@ -1,4 +1,3 @@
-/* General body styling */
 body {
   font-family: 'Poppins', sans-serif;
   margin: 0;
@@ -6,14 +5,12 @@ body {
   background-color: #f4f4f4;
 }
 
-/* Page wrapper */
 #page_wrapper {
   width: 100%;
   margin: 0 auto;
   padding: 20px;
 }
 
-/* Header and navigation */
 header {
   background-color: #333;
   color: white;
@@ -38,12 +35,10 @@ header {
   font-weight: bold;
 }
 
-/* Main content wrapper */
 #content-wrapper {
   padding: 20px;
 }
 
-/* Content section */
 #main_content {
   background-color: white;
   padding: 15px;
@@ -51,7 +46,6 @@ header {
   box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
 }
 
-/* Headings */
 h1 {
   font-size: 28px;
   color: #333;
@@ -63,14 +57,12 @@ h2 {
   margin-top: 15px;
 }
 
-/* Paragraphs */
 p {
   font-size: 16px;
   line-height: 1.5;
   color: #555;
 }
 
-/* Image styling */
 img {
   width: 100%;
   height: auto;
@@ -78,7 +70,6 @@ img {
   border-radius: 4px;
 }
 
-/* Embedded video (iframe) */
 iframe {
   display: block;
   margin-top: 15px;
